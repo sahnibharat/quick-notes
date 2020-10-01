@@ -1,4 +1,4 @@
-# Quick Notes
+# Quick Notes QA branch
 
 #### Deploy a full stack web app to help you organize your notes when you're on the go.
 
